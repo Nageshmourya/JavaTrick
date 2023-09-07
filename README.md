@@ -1,1 +1,1 @@
-# JavaTrick
+# JavaTrick & help in  Code
